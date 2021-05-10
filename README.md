@@ -1,5 +1,6 @@
 ![1*xdY3Q20D6JF5QroT3JpJlg](https://user-images.githubusercontent.com/13023313/117725112-51622f80-b202-11eb-8edc-b64747cd4100.png)
-chia-blockchain-discord-server
+
+chia blockchain discord server
 
 # Chia-discord-supermine.io-pool
 Chia Blockchain discord server + Chia mining pool 
